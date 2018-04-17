@@ -8,7 +8,7 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/abiosoft/ishell"
+	"gopkg.in/abiosoft/ishell.v2"
 )
 
 var (

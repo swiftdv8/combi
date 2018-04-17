@@ -6,9 +6,9 @@ import (
 	"fmt"
 	"log"
 
-	"github.com/abiosoft/ishell"
 	"github.com/asaskevich/govalidator"
 	"github.com/spf13/cobra"
+	"gopkg.in/abiosoft/ishell.v2"
 )
 
 // GenericStaticHandler provides a generic handler for static cli commands

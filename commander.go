@@ -6,8 +6,8 @@ import (
 	"strings"
 	"sync"
 
-	"github.com/abiosoft/ishell"
 	"github.com/spf13/cobra"
+	"gopkg.in/abiosoft/ishell.v2"
 )
 
 // Commander wraps up commands and some configuration on how to run them

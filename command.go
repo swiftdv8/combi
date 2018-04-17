@@ -5,8 +5,8 @@ import (
 	"fmt"
 	"reflect"
 
-	"github.com/abiosoft/ishell"
 	"github.com/spf13/cobra"
+	"gopkg.in/abiosoft/ishell.v2"
 )
 
 /*

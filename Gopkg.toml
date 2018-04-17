@@ -26,16 +26,16 @@
 
 
 [[constraint]]
-  name = "github.com/abiosoft/ishell"
-  version = "1.0.0"
-
-[[constraint]]
   name = "github.com/asaskevich/govalidator"
   version = "9.0.0"
 
 [[constraint]]
   name = "github.com/spf13/cobra"
   version = "0.0.2"
+
+[[constraint]]
+  branch = "v2"
+  name = "gopkg.in/abiosoft/ishell.v2"
 
 [prune]
   go-tests = true
